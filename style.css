@@ -26,7 +26,7 @@ main {
   background-color: black;
   border-radius: 10px;
   padding: 10px;
-  opacity: 0.5;
+  opacity: 0.7;
 }
 
 button {
@@ -74,20 +74,20 @@ button {
     align-items: center;
     
 }
-@media screen and (max-width: 1412px) {
+@media screen and (max-width: 1552px) {
   #top {
-    width: 90%;
+    width: 60%;
     font-size: 18px;
   }
 
   main {
-    width: 50%;
-    height: 30%;
+    width: 60%;
+    height: 7git0%;
   }
 
   .box {
-    width: 20%;
-    height: 12%;
+    width: 5%;
+    height: 8%;
   }
 
   button {
@@ -103,9 +103,9 @@ button {
     font-size: 24px;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1233px) {
   #top {
-    width: 90%;
+    width: 80%;
     font-size: 18px;
   }
 
@@ -115,8 +115,8 @@ button {
   }
 
   .box {
-    width: 20%;
-    height: 12%;
+    width: 8%;
+    height: 5%;
   }
 
   button {
@@ -132,20 +132,20 @@ button {
     font-size: 24px;
   }
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 709px) {
   #top {
-    width: 95%;
+    width: 80%;
     font-size: 16px;
   }
 
   main {
-    width: 50%;
-    height: 35%;
+    width: 35%;
+    height: 45%;
   }
 
   .box {
-    width: 22%;
-    height: 10%;
+    width: 15%;
+    height: 5%;
   }
 
   #overlay {
